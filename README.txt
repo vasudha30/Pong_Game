@@ -1,0 +1,1 @@
+Put images and sound files here (png, wav, ogg).
